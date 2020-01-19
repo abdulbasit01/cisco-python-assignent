@@ -7,7 +7,6 @@ print (sys.version)
 #question 3
 from datetime import datetime
 nowTime = datetime.now()
-print("Today's date:", nowTime)
 curretH=now.time()
 print(curretH)
 #question 4
